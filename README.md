@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="tintinmaster_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Tim Schneider | XING" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][xing]
+[<img align="left" alt="Tim Schneider | XING" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/xing.svg" />][xing]
 [<img align="left" alt="tim_tintinmaster | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
