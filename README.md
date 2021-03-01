@@ -38,9 +38,9 @@
 
 ---
 
-<img align="left" alt="tintinmasters GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tintinmaster&show_icons=true&hide_border=true&theme=graywhite" />
+<img align="left" alt="tintinmasters GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tintinmaster&show_icons=true&hide_border=true&theme=dracula" />
 
-<img align="left" alt="tintinmasters Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tintinmaster&layout=compact&theme=graywhite&hide_border=true" />
+<img align="left" alt="tintinmasters Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tintinmaster&layout=compact&theme=dracula&hide_border=true" />
 
 <br />
 
