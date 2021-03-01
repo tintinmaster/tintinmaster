@@ -38,7 +38,7 @@
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="tintinmasters GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tintinmaster&show_icons=true&hide_border=true&theme=dracula" width=49.5/>
+  <img align="center" alt="tintinmasters GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tintinmaster&show_icons=true&hide_border=true&theme=dracula" width=49.5%/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="tintinmasters Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tintinmaster&layout=compact&theme=dracula&hide_border=true" width=49.5%/>
