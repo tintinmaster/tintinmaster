@@ -1,10 +1,8 @@
 ## Hi there, I'm Tim - aka tintinmaster 👋
 
 ### I'm a Student, Gamer and Metalhead!
-- 🖥️ I'm currently studying Cybersecurity in the 4th Term at Saarland University
+- 🖥️ I'm currently studying Cybersecurity in the 5th Term at Saarland University
 - 🌱 I’m currently learning everything :) 
-- 🎮 I'm playing mostly shooter or adventure games
-- 🤘 My favorite genres are Trash-Metal, Nu-Metal and Metalcore
 
 ---
 
