@@ -34,6 +34,8 @@
 
 <br />
 
+<!--
+
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="tintinmasters GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tintinmaster&show_icons=true&hide_border=true&theme=dracula&count_private=true&hide_title=true" width=49.3%/>
@@ -43,6 +45,7 @@
 </a>
 
 <br />
+-->
 
 
 [twitter]: https://twitter.com/tintinmaster_
