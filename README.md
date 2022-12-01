@@ -1,7 +1,7 @@
 ## Hi there, I'm Tim - aka tintinmaster 👋
 
 ### I'm a Student, Gamer and Metalhead!
-- 🖥️ I'm currently studying Cybersecurity in the 5th Term at Saarland University
+- 🖥️ I'm currently studying Cybersecurity in the 7th Term at Saarland University
 - 🌱 I’m currently learning everything :) 
 
 ---
